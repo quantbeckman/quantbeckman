@@ -1,3 +1,4 @@
+![Scipia 1 logo](https://user-images.githubusercontent.com/117570545/201490780-15029429-d0e1-4a6b-a77f-ee2ac1d70bfb.jpg)
 
 <h2>👋 Hi there, welcome! </h2>
 
@@ -15,7 +16,7 @@ I´m a financial data scientist in constant beta. I love to learn, research and 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
 
 * *Currently*, I´m working on:
   * Cooperative multi-agent trading systems.  
