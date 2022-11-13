@@ -33,7 +33,7 @@ In the last 11 years I've tested multiple Machine Trading approaches, here a sam
 
 <h2>🤝 Let´s team up! </h2>
 
-Would you like to join a **descentralized quant team**? Reach me! We work as a research lab structure. 
+Would you like to join a **descentralized quant team**? We work as a research lab structure. If you are interested... Reach me!  
 
 We are also **open to collaborate** with other quant teams. It could be amazing to try to solve the markets together.
 
