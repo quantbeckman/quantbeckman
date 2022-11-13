@@ -13,7 +13,7 @@ I´m a financial data scientist in constant beta. I love to learn, research and 
 During my journey I have had different roles such as DataOps, MLOps and DevOps. However, the most important thing that I learnt in my career was the value of:
 * 🏅 Highly cooperative environments.
 * 🎯 Peer review.
-* 🦾 Co-specialization.
+* 💪🏻 Co-specialization.
 * 👨‍🔬 Empirical falsification.
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
