@@ -17,6 +17,7 @@ I´m a financial data scientist in constant beta. I love to learn, research and 
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+In the last 11 years I've tested multiple Machine Trading approaches, here a sample.
 
 * *Currently*, I´m working on:
   * **Cooperative multi-agent** trading systems.  
@@ -32,6 +33,8 @@ I´m a financial data scientist in constant beta. I love to learn, research and 
 
 <h2>🤝 Let´s team up! </h2>
 
-Would you like to join a **descentralized quant team**? Reach me! We work as a research lab structure. We are also **open to collaborate** with other quant teams. It could be amazing to try to solve the markets together.
+Would you like to join a **descentralized quant team**? Reach me! We work as a research lab structure. 
+
+We are also **open to collaborate** with other quant teams. It could be amazing to try to solve the markets together.
 
 [![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennbeckmanfx@gmail.com)
