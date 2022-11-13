@@ -1,14 +1,20 @@
 ![Scipia 1 logo](https://user-images.githubusercontent.com/117570545/201490780-15029429-d0e1-4a6b-a77f-ee2ac1d70bfb.jpg)
 
-<h2>👋 Hi there, welcome! </h2>
+<h2>👋 Hi there, welcome to my GitHub! </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=quantbeckman.quantbeckman)](https://github.com/quantbeckman)
 [![GitHub followers](https://img.shields.io/github/followers/quantbeckman.svg?style-social&label-Follow&maxAge=2592000)](https://github.com/quantbeckman?tab-followers)
 
 <p align="left">
-<a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="" height="40" width="40" /></a><a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="" height="60" width="60" /></a></p>
+<a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="" height="30" width="30" /></a><a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="" height="50" width="50" /></a></p>
 
 I´m a financial data scientist in constant beta. I love to learn, research and code. My passion is to develop algorithmic trading systems.
+
+During my journey I have had different roles such as DataOps, MLOps and DevOps. However, the most important thing that I learnt in my career was the value of:
+* 🏅 Highly cooperative environments.
+* 🎯 Peer review.
+* 🦾 Co-specialization.
+* 👨‍🔬 Empirical falsification.
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
@@ -29,11 +35,11 @@ In the last 11 years I've tested multiple Machine Trading approaches, here a sam
   * **DRL** agents such as A2C, POO, TD3... for portfolio allocation (explainable DRL).
   * **DL** models such as LSTM, GRU, RNN... for multi-horizon forecasting.
   * **NLP** models such as BERT, RoBERTa, FinBert... for news-based event driven trading.
-  * Other **ML** stuff: Multi-graph tensor networks, dual-process meta-learning, multi-head attention for multivariate TS...
+  * Other **ML** stuff: Multi-graph tensor networks, dual-process meta-learning, multi-head attention for TS... and a long list.
 
 <h2>🤝 Let´s team up! </h2>
 
-Would you like to join a **descentralized quant team**? We work as a research lab structure. If you are interested... Reach me!  
+Would you like to join a **descentralized quant team**? We work as a cooperative research lab structure. If you are interested, __reach me!__  
 
 We are also **open to collaborate** with other quant teams. It could be amazing to try to solve the markets together.
 
