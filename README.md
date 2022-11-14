@@ -10,7 +10,7 @@
 
 I´m a financial data scientist in constant beta. I love to learn, research and code. My passion is to develop algorithmic trading systems.
 
-During my journey I have had different roles such as DataOps, MLOps and DevOps. However, the most important thing that I learnt in my career was the value of:
+During my career I´ve had different roles such as DataOps, MLOps and DevOps. However, the most important thing I´ve learnt in this time has been the value of:
 * 🏅 Highly cooperative environments.
 * 🎯 Peer review.
 * 💪🏻 Co-specialization.
