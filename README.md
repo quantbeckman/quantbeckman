@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/117570545/201875386-c6cfdd0a-0aa4-45f3-ae48-2df834d64fe9.jpg)
 
 
-<h2>👋 Hi there, welcome to my GitHub! </h2>
+<h2>👋 Hi there, welcome! </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=quantbeckman.quantbeckman)](https://github.com/quantbeckman)
 [![GitHub followers](https://img.shields.io/github/followers/quantbeckman.svg?style-social&label-Follow&maxAge=2592000)](https://github.com/quantbeckman?tab-followers)
