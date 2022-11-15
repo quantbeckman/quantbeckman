@@ -1,4 +1,4 @@
-![Scipia 5 logo](https://user-images.githubusercontent.com/117570545/201733678-a6339664-e295-4e1f-a373-1d6ac3b910f9.jpg)
+![logo](https://user-images.githubusercontent.com/117570545/201875386-c6cfdd0a-0aa4-45f3-ae48-2df834d64fe9.jpg)
 
 
 <h2>👋 Hi there, welcome to my GitHub! </h2>
