@@ -42,6 +42,6 @@ In the last 11 years I've tested multiple Machine Trading approaches, here a sam
 
 Would you like to join a **descentralized quant team**? We work as a cooperative research lab structure. If you are interested, __reach me!__  
 
-We are also **open to collaborate** with other quant teams. It could be amazing to try to solve the markets together.
+We are also **open to collaborate** with other quant teams. It will be exciting to try to solve the markets together.
 
 [![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennbeckmanfx@gmail.com)
