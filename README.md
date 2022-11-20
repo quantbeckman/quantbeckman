@@ -1,12 +1,12 @@
 ![logo](https://user-images.githubusercontent.com/117570545/201875386-c6cfdd0a-0aa4-45f3-ae48-2df834d64fe9.jpg)
 
 
-<h2>👋 Hi there, welcome! <a href="https://github.com/quantbeckman" target="blank"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=quantbeckman.quantbeckman" alt="" height="25" width="80" /></a> </h2>
+<h2>👋 Hi there, welcome! </h2>
 
 <p align="left">
-
 <a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="" height="30" width="30" /></a>
 <a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="" height="50" width="50" /></a>
+<a href="https://github.com/quantbeckman" target="blank"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=quantbeckman.quantbeckman" alt="" height="25" width="80" /></a> 
 </p>
 
 I´m a financial data scientist in constant beta. I love to learn, research and code. My passion is to develop algorithmic trading systems.
