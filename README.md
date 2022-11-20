@@ -6,7 +6,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=quantbeckman.quantbeckman)](https://github.com/quantbeckman)
 
 <p align="left">
-<a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="" height="30" width="30" /></a><a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="" height="50" width="50" /></a></p>
+<a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="" height="30" width="30" /></a><a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="" height="50" width="50" /></a></p><a href="https://github.com/quantbeckman" target="blank"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=quantbeckman.quantbeckman" alt="" height="50" width="50" /></a></p>
 
 I´m a financial data scientist in constant beta. I love to learn, research and code. My passion is to develop algorithmic trading systems.
 
