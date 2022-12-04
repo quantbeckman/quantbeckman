@@ -18,7 +18,6 @@ During my career I´ve had different roles such as DataOps, MLOps and DevOps. Ho
 * 💪🏻 Co-specialization.
 * 👨‍🔬 Empirical falsification.
 
-![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
@@ -48,3 +47,5 @@ Would you like to join a **descentralized quant team**? We work as a cooperative
 We are also **open to collaborate** with other quant teams. It will be exciting to try to solve the markets together.
 
 [![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennbeckmanfx@gmail.com)
+
+<p align="right">![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)</p>
