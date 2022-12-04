@@ -18,6 +18,8 @@ During my career I´ve had different roles such as DataOps, MLOps and DevOps. Ho
 * 💪🏻 Co-specialization.
 * 👨‍🔬 Empirical falsification.
 
+![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
