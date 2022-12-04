@@ -47,5 +47,3 @@ Would you like to join a **descentralized quant team**? We work as a cooperative
 We are also **open to collaborate** with other quant teams. It will be exciting to try to solve the markets together.
 
 [![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennbeckmanfx@gmail.com)
-
-<p align="right">![](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)</p>
