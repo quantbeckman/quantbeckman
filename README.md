@@ -49,3 +49,6 @@ We are also **open to collaborate** with other quant teams. It will be exciting 
 [![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennbeckmanfx@gmail.com)
 
 ![code](https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif)
+
+<a href="https://github.com/quantbeckman" target="blank"><img align="center" src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" alt="" height="25" width="80" /></a> 
+
