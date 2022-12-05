@@ -14,7 +14,7 @@ I´m a financial data scientist in constant beta. I love to learn, research and 
 
 During my career I´ve had different roles such as DataOps, MLOps and DevOps. However, the most important thing I´ve learnt in this time has been the value of:
 
-<img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right" width="1000px"/> 
+<img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right" width="500px"/> 
 
 * 🏅 Highly cooperative environments.
 * 🎯 Peer review.
