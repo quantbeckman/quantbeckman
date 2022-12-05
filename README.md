@@ -28,7 +28,7 @@ During my career I´ve had different roles such as DataOps, MLOps and DevOps. Ho
 
 In the last 11 years I've tested multiple Machine Trading approaches, here a sample.
 
-<img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right" width="500px"/> 
+<img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right" width="550px"/> 
 
 * *Currently*, I´m working on:
   * **Cooperative multi-agent** trading systems.  
