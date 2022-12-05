@@ -13,11 +13,15 @@
 I´m a financial data scientist in constant beta. I love to learn, research and code. My passion is to develop algorithmic trading systems.
 
 During my career I´ve had different roles such as DataOps, MLOps and DevOps. However, the most important thing I´ve learnt in this time has been the value of:
+
+<img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right"/> 
+
 * 🏅 Highly cooperative environments.
 * 🎯 Peer review.
 * 💪🏻 Co-specialization.
 * 👨‍🔬 Empirical falsification.
 
+<br clear="right"/>
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
@@ -48,6 +52,4 @@ We are also **open to collaborate** with other quant teams. It will be exciting 
 
 [![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennbeckmanfx@gmail.com)
 
-
-<a href="https://github.com/quantbeckman" target="blank"><img align="center" src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" alt="" height="700" width="1100" /></a> 
 
