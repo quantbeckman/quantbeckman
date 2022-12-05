@@ -14,14 +14,10 @@ I´m a financial data scientist in constant beta. I love to learn, research and 
 
 During my career I´ve had different roles such as DataOps, MLOps and DevOps. However, the most important thing I´ve learnt in this time has been the value of:
 
-<img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right" width="500px"/> 
-
 * 🏅 Highly cooperative environments.
 * 🎯 Peer review.
 * 💪🏻 Co-specialization.
 * 👨‍🔬 Empirical falsification.
-
-<br clear="right"/>
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
@@ -31,6 +27,8 @@ During my career I´ve had different roles such as DataOps, MLOps and DevOps. Ho
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 In the last 11 years I've tested multiple Machine Trading approaches, here a sample.
+
+<img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right" width="500px"/> 
 
 * *Currently*, I´m working on:
   * **Cooperative multi-agent** trading systems.  
@@ -43,6 +41,8 @@ In the last 11 years I've tested multiple Machine Trading approaches, here a sam
   * **DL** models such as LSTM, GRU, RNN... for multi-horizon forecasting.
   * **NLP** models such as BERT, RoBERTa, FinBert... for news-based event driven trading.
   * Other **ML** stuff: Multi-graph tensor networks, dual-process meta-learning, multi-head attention for TS... and a long list.
+
+<br clear="right"/>
 
 <h2>🤝 Let´s team up! </h2>
 
