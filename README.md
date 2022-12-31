@@ -33,7 +33,7 @@ In the last 11 years I've tested multiple Machine Trading approaches, here a sam
 * *Currently*, I´m working on:
   * **Cooperative multi-agent** trading systems.  
   * Basket **optimization** ML algorithms for non-supervised portfolio construction.
-  * **Transformers** with tabular and sampled multi-period market data.
+  * **Transformers with metalabeling architectures** and sampled multi-period market data.
   * Model-based environments for **limit order book**.
   
 * *Previously*, other areas of researching:
