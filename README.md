@@ -13,7 +13,7 @@
 
 I´m a financial data scientist in constant beta. I love to learn, research and code. My passion is to develop algorithmic trading systems.
 
-During my career I´ve had different roles such as DataOps, MLOps and DevOps. However, the most important thing I´ve learnt in this time has been the value of:
+During my career I´ve had different roles such as MLOps, RiskOps and DevOps. However, the most important thing I´ve learnt in this time has been the value of:
 
 * 🏅 Highly cooperative environments.
 * 🎯 Peer review.
@@ -33,13 +33,13 @@ In the last 11 years I've tested multiple Machine Trading approaches, here a sam
 
 * *Currently*, I´m working on:
   * **Cooperative multi-agent** trading systems.  
-  * Basket **optimization** ML algorithms for non-supervised portfolio construction.
-  * **Transformers with metalabeling architectures** and sampled multi-period market data.
+  * **Online optimization** ML algorithms for non-supervised portfolio construction.
+  * **Transformers with model agnostic frameworks** and sampled multi-period market data.
   * Model-based environments for **limit order book**.
   
 * *Previously*, other areas of researching:
   * **DRL** agents such as A2C, POO, TD3... for portfolio allocation (explainable DRL).
-  * **DL** models such as LSTM, GRU, RNN... for multi-horizon forecasting.
+  * **DL** models such as LSTM, GRU, RNN... for multi-horizon inference.
   * **NLP** models such as BERT, RoBERTa, FinBert... for news-based event driven trading.
   * Other **ML** stuff: Multi-graph tensor networks, dual-process meta-learning, multi-head attention for TS... and a long list.
 
