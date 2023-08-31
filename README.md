@@ -8,7 +8,6 @@
 <a href="https://linkedin.com/in/quantbeckman" target="blank"><img align="center" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo.png" alt="" height="30" width="30" /></a>
 <a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="" height="50" width="50" /></a>
 <a href="https://t.me/quantbeckman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="" height="35" width="35" /></a>
-<a href="https://github.com/quantbeckman" target="blank"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=quantbeckman.quantbeckman" alt="" height="25" width="80" /></a> 
 </p>
 
 I´m a financial data scientist in constant beta. I love to learn, research and code. My passion is to develop algorithmic trading systems.
