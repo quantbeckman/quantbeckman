@@ -7,7 +7,7 @@
 <a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="Twitter" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/quantbeckman" target="blank"><img align="center" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo.png" alt="LinkedIn" height="30" width="30" /></a>
 <!-- <a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="Instagram" height="50" width="50" /></a> -->
-<a href="https://t.me/quantbeckman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="35" width="35" /></a>
+<!-- <a href="https://t.me/quantbeckman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="35" width="35" /></a> -->
 <a href="https://chat.whatsapp.com/LsXSHJxfp9l7tOd7OO6PQL" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="35" width="35" /></a>
 </p>
 
