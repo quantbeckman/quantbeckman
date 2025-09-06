@@ -11,14 +11,15 @@
 <a href="https://chat.whatsapp.com/LsXSHJxfp9l7tOd7OO6PQL" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="35" width="35" /></a>
 </p>
 
-I´m a financial data scientist in constant beta. I love to learn, research and code. My passion is to develop algorithmic trading systems.
+I’m Quant Beckman, a Spain-based quantitative researcher. I currently serve a multi-family office and have partnered with cutting-edge ventures, multi-strategy pod shops, and specialized investment platforms that are redefining finance.
 
-During my career I´ve had different roles such as MLOps, RiskOps and DevOps. However, the most important thing I´ve learnt in this time has been the value of:
+My mission is simple: solve million-dollar problems for funds and firms. I’ve engineered predictive models, built scalable infrastructure, and designed systematic investment strategies that convert raw data into lasting competitive advantage. Today those same skills power a broader vision—creating alternative funding pathways that free businesses from costly bank loans and inflexible mortgage structures.
 
-* 🏅 Highly cooperative environments.
-* 🎯 Peer review.
-* 💪🏻 Co-specialization.
-* 👨‍🔬 Empirical falsification.
+Right now, I’m assembling a portfolio of AI- and DeFi-driven ventures at the intersection of technology and capital markets. Each company targets liquidity gaps and disconnected information pipelines with solutions designed to deliver both societal impact and superior risk-adjusted returns.
+
+Over the next six to ten years, my goal is to weave these innovations into flexible financing rails that entrepreneurs worldwide can access when traditional banks can’t—or won’t—step up. By challenging legacy constraints, I aim to build a more agile, inclusive financial ecosystem.
+
+Let’s catalyze the next wave of financial innovation together. Whether you’re an entrepreneur ready to rethink capital markets, an investor seeking cutting-edge AI or DeFi exposure, or simply curious how quantitative rigor can drive transformational outcomes, connect with me on LinkedIn or visit www.quantbeckman.com. Data is power—let’s use it to move markets and create enduring value.
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
@@ -27,20 +28,23 @@ During my career I´ve had different roles such as MLOps, RiskOps and DevOps. Ho
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-In the last 11 years I've tested multiple Machine Trading approaches, here a sample.
+In the last 14 years I've tested multiple Machine Trading approaches, here a sample.
 
 <img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right" width="500px"/> 
 
 * *Currently*, I´m working on:
+  * **Execution models** to match with signal models.
+  * Alternative methods to generate **Synthetic data**.
+  * **Free-parameter optimization** methods.
+  
+* *Previously*, other areas of researching:
+  * **DRL** agents such as A2C, POO, TD3... for portfolio allocation.
+  * **DL** models such as LSTM, GRU, RNN... for multi-horizon inference.
+  * **NLP** models for news-based event driven trading.
   * **Cooperative multi-agent** trading systems.  
   * **Online optimization** ML algorithms for non-supervised portfolio construction.
   * **Transformers with model agnostic frameworks** and sampled multi-period market data.
   * Model-based environments for **limit order book**.
-  
-* *Previously*, other areas of researching:
-  * **DRL** agents such as A2C, POO, TD3... for portfolio allocation (explainable DRL).
-  * **DL** models such as LSTM, GRU, RNN... for multi-horizon inference.
-  * **NLP** models such as BERT, RoBERTa, FinBert... for news-based event driven trading.
   * Other **ML** stuff: Multi-graph tensor networks, dual-process meta-learning, multi-head attention for TS... and a long list.
 
 <br clear="right"/>
@@ -51,7 +55,7 @@ Would you like to join a **descentralized quant team**? We work as a cooperative
 
 We are also **open to collaborate** with other quant teams. It will be exciting to try to solve the markets together.
 
-[![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bennbeckmanfx@gmail.com)
+[![Reach me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quantbeckman@gmail.com)
 
 
 
