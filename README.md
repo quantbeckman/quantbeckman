@@ -10,8 +10,6 @@
 <!-- <a href="https://t.me/quantbeckman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="35" width="35" /></a> -->
 <a href="https://chat.whatsapp.com/LsXSHJxfp9l7tOd7OO6PQL" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="35" width="35" /></a>
 <a href="https://www.quantbeckman.com/" target="blank"><img align="center" img width="35" height="35" alt="COVER 2 (1)" src="https://github.com/user-attachments/assets/f020802f-6d2f-4bca-bb82-fcc8e13eb326" />
-
-
 </p>
 
 I’m Quant Beckman, a Spain-based quantitative researcher. I currently serve a multi-family office and have partnered with cutting-edge ventures, multi-strategy pod shops, and specialized investment platforms that are redefining finance.
@@ -26,6 +24,7 @@ Let’s catalyze the next wave of financial innovation together. Whether you’r
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -58,6 +57,14 @@ Would you like to join a **descentralized quant team**? We work as a cooperative
 
 We are also **open to collaborate** with other quant teams. It will be exciting to try to solve the markets together.
 
+<p align="center">
+<a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="Twitter" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/quantbeckman" target="blank"><img align="center" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo.png" alt="LinkedIn" height="50" width="50" /></a>
+<!-- <a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="Instagram" height="50" width="50" /></a> -->
+<!-- <a href="https://t.me/quantbeckman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="50" width="50" /></a> -->
+<a href="https://chat.whatsapp.com/LsXSHJxfp9l7tOd7OO6PQL" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="50" width="50" /></a>
+<a href="https://www.quantbeckman.com/" target="blank"><img align="center" img width="50" height="50" alt="COVER 2 (1)" src="https://github.com/user-attachments/assets/f020802f-6d2f-4bca-bb82-fcc8e13eb326" />
+</p>
 
 
 
