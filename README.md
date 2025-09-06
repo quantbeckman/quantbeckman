@@ -1,8 +1,5 @@
 
-<img width="1536" height="542" alt="QUANT" src="https://github.com/user-attachments/assets/52338946-26ef-4806-afa2-1a20621a4a4c" />
-
-
-
+![fondo linkin (2)](https://github.com/user-attachments/assets/624862d1-764c-47e2-b8df-fe3409899ea6)
 
 <h2>👋 Hi there, welcome! </h2>
 
