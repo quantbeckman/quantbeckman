@@ -1,5 +1,6 @@
 
-![logo](https://github.com/user-attachments/assets/35df934e-a030-47e9-8d04-10987abfa98f)
+<img width="1205" height="301" alt="image" src="https://github.com/user-attachments/assets/af03bc5e-4744-4e88-adbb-e2942ab4d653" />
+
 
 
 <h2>👋 Hi there, welcome! </h2>
@@ -22,6 +23,8 @@ Right now, I’m assembling a portfolio of AI- and DeFi-driven ventures at the i
 Over the next six to ten years, my goal is to weave these innovations into flexible financing rails that entrepreneurs worldwide can access when traditional banks can’t—or won’t—step up. By challenging legacy constraints, I aim to build a more agile, inclusive financial ecosystem.
 
 Let’s catalyze the next wave of financial innovation together. Whether you’re an entrepreneur ready to rethink capital markets, an investor seeking cutting-edge AI or DeFi exposure, or simply curious how quantitative rigor can drive transformational outcomes, connect with me on LinkedIn or visit www.quantbeckman.com. Data is power—let’s use it to move markets and create enduring value.
+
+![logo](https://github.com/user-attachments/assets/35df934e-a030-47e9-8d04-10987abfa98f)
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
