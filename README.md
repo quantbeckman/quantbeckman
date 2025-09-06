@@ -1,5 +1,6 @@
 
-<img width="1205" height="301" alt="image" src="https://github.com/user-attachments/assets/af03bc5e-4744-4e88-adbb-e2942ab4d653" />
+![fondo linkin (2)](https://github.com/user-attachments/assets/a1784b3b-363f-4d42-9d04-a391d978b4f4)
+
 
 
 
