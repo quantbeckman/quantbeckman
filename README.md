@@ -58,7 +58,6 @@ Would you like to join a **descentralized quant team**? We work as a cooperative
 We are also **open to collaborate** with other quant teams. It will be exciting to try to solve the markets together.
 
 <p align="center">
- 
 <a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="Twitter" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/quantbeckman" target="blank"><img align="center" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo.png" alt="LinkedIn" height="50" width="50" /></a>
 <!-- <a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="Instagram" height="50" width="50" /></a> -->
