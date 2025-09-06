@@ -58,12 +58,13 @@ Would you like to join a **descentralized quant team**? We work as a cooperative
 We are also **open to collaborate** with other quant teams. It will be exciting to try to solve the markets together.
 
 <p align="center">
+ 
 <a href="https://twitter.com/quantbeckman" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733579.png" alt="Twitter" height="50" width="50" /></a>
 <a href="https://linkedin.com/in/quantbeckman" target="blank"><img align="center" src="https://businessyield.com/wp-content/uploads/2022/10/LinkedIn-Logo.png" alt="LinkedIn" height="50" width="50" /></a>
 <!-- <a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="Instagram" height="50" width="50" /></a> -->
 <!-- <a href="https://t.me/quantbeckman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="50" width="50" /></a> -->
-<a href="https://chat.whatsapp.com/LsXSHJxfp9l7tOd7OO6PQL" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="50" width="50" /></a>
-<a href="https://www.quantbeckman.com/" target="blank"><img align="center" img width="50" height="50" alt="COVER 2 (1)" src="https://github.com/user-attachments/assets/f020802f-6d2f-4bca-bb82-fcc8e13eb326" />
+<a href="https://chat.whatsapp.com/LsXSHJxfp9l7tOd7OO6PQL" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="60" width="60" /></a>
+<a href="https://www.quantbeckman.com/" target="blank"><img align="center" img width="60" height="60" alt="COVER 2 (1)" src="https://github.com/user-attachments/assets/f020802f-6d2f-4bca-bb82-fcc8e13eb326" />
 </p>
 
 
