@@ -9,7 +9,7 @@
 <!-- <a href="https://www.instagram.com/quant_beckman/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png" alt="Instagram" height="50" width="50" /></a> -->
 <!-- <a href="https://t.me/quantbeckman" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="35" width="35" /></a> -->
 <a href="https://chat.whatsapp.com/LsXSHJxfp9l7tOd7OO6PQL" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="35" width="35" /></a>
-<a href="https://www.quantbeckman.com/" target="blank"><img width="53" height="32" alt="image" src="https://github.com/user-attachments/assets/37a4fae5-7590-4c2a-b276-d3b26a29f249" />
+<a href="https://www.quantbeckman.com/" target="blank"><img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/37a4fae5-7590-4c2a-b276-d3b26a29f249" />
 
 </p>
 
