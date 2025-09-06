@@ -1,5 +1,5 @@
 
-![fondo linkin (2)](https://github.com/user-attachments/assets/a1784b3b-363f-4d42-9d04-a391d978b4f4)
+<img width="1536" height="542" alt="QUANT" src="https://github.com/user-attachments/assets/52338946-26ef-4806-afa2-1a20621a4a4c" />
 
 
 
