@@ -24,7 +24,6 @@ Over the next six to ten years, my goal is to weave these innovations into flexi
 
 Let’s catalyze the next wave of financial innovation together. Whether you’re an entrepreneur ready to rethink capital markets, an investor seeking cutting-edge AI or DeFi exposure, or simply curious how quantitative rigor can drive transformational outcomes, connect with me on LinkedIn or visit www.quantbeckman.com. Data is power—let’s use it to move markets and create enduring value.
 
-![logo](https://github.com/user-attachments/assets/35df934e-a030-47e9-8d04-10987abfa98f)
 
 <h2>👨‍💻 Projects & ML for finance. </h2>
 
