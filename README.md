@@ -1,5 +1,5 @@
 
-![fondo linkin (2)](https://github.com/user-attachments/assets/624862d1-764c-47e2-b8df-fe3409899ea6)
+![WhatsApp Image 2025-09-07 at 12 34 11](https://github.com/user-attachments/assets/2368540e-11ec-4edd-93eb-5a94f1335e05)
 
 <h2>👋 Hi there, welcome! </h2>
 
