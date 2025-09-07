@@ -33,8 +33,6 @@ Let’s catalyze the next wave of financial innovation together. Whether you’r
 
 In the last 14 years I've tested multiple Machine Trading approaches, here a sample.
 
-<img src="https://user-images.githubusercontent.com/117570545/205592671-0d7e2af8-8351-480e-be92-6daf02486af2.gif" align="right" width="500px"/> 
-
 * *Currently*, I´m working on:
   * **Execution models** to match with signal models.
   * Alternative methods to generate **Synthetic data**.
