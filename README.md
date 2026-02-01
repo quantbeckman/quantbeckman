@@ -31,7 +31,7 @@ Let’s catalyze the next wave of financial innovation together. Whether you’r
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-In the last 14 years I've tested multiple Machine Trading approaches, here a sample.
+In the last 15 years I've tested multiple Machine Trading approaches, here a sample.
 
 * *Currently*, I´m working on:
   * **Execution models** to match with signal models.
